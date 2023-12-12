@@ -1,0 +1,19 @@
+
+body
+{
+ background-color: rgb(241, 240, 237);
+ text-align: center;
+ list-style-position: inside;
+  
+}
+
+.tiledBackground {
+    background-image: url("./1293389.jpg");
+    background-blend-mode: screen;
+    background-size: auto;
+    width: 1450px;
+    height: 2100px;
+    border: 2px solid;
+    color: whitesmoke;
+  }
+  
